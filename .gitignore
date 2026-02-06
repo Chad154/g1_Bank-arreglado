@@ -1,0 +1,12 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+
+# ===== Odoo =====
+*.log
+.env
+odoo.conf
+
+# ===== System =====
+.DS_Store
+Thumbs.db
