@@ -4,8 +4,8 @@ from odoo import models, fields, api
 
 
 class g1_bank(models.Model):
-    _name = 'g1.bank'
-    _description = 'g1.bank'
+     _name = 'g1.bank'
+     _description = 'g1.bank'
 
 #     name = fields.Char()
 #     value = fields.Integer()
